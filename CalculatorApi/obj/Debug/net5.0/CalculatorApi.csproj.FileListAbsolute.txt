@@ -1,0 +1,46 @@
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\appsettings.json
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.exe
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.deps.json
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.runtimeconfig.json
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.runtimeconfig.dev.json
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.dll
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\ref\CalculatorApi.dll
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.pdb
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.csproj.AssemblyReference.cache
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.AssemblyInfoInputs.cache
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.AssemblyInfo.cs
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.csproj.CoreCompileInputs.cache
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\staticwebassets\CalculatorApi.StaticWebAssets.Manifest.cache
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\staticwebassets\CalculatorApi.StaticWebAssets.xml
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\scopedcss\bundle\CalculatorApi.styles.css
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.RazorTargetAssemblyInfo.cache
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.dll
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\ref\CalculatorApi.dll
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.pdb
+C:\Users\shusures\Documents\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.genruntimeconfig.cache
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\appsettings.json
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.exe
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.deps.json
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.runtimeconfig.json
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.runtimeconfig.dev.json
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.dll
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\ref\CalculatorApi.dll
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\bin\Debug\net5.0\CalculatorApi.pdb
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.csproj.AssemblyReference.cache
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.AssemblyInfoInputs.cache
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.AssemblyInfo.cs
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.csproj.CoreCompileInputs.cache
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\staticwebassets\CalculatorApi.StaticWebAssets.Manifest.cache
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\staticwebassets\CalculatorApi.StaticWebAssets.xml
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\scopedcss\bundle\CalculatorApi.styles.css
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.RazorTargetAssemblyInfo.cache
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.dll
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\ref\CalculatorApi.dll
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.pdb
+C:\Users\shusures_old\Documents\Training Phase\LocalCopyOfWork\APIPractice\CalculatorApi\CalculatorApi\obj\Debug\net5.0\CalculatorApi.genruntimeconfig.cache
